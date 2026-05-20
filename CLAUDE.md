@@ -2,7 +2,7 @@
 
 ## 對話開始時請先讀
 進度與最近更動都在 Obsidian 工作筆記:
-**完整路徑**:`/Users/shun/Library/CloudStorage/GoogleDrive-shunshun70218@gmail.com/我的雲端硬碟/cloudai data/Obsidian/secondbrain/my-classroom-tools/工作筆記.md`
+**完整路徑**:`/Users/shun/Library/CloudStorage/GoogleDrive-shunshun70218@gmail.com/我的雲端硬碟/cloudai data/Obsidian/secondbrain/my-classroom-tools/專案工作流程.md`
 
 (vault 是 `cloudai data/Obsidian/secondbrain/`,放在 GDrive 內;不是 `~/Documents/Obsidian Vault/`)
 
@@ -14,7 +14,7 @@
 ## 工作桌 + 三個家
 - 📋 GDrive 工作桌:`cloudai data/專案-lab/my-classroom-tools/`(macOS CloudStorage,自動跨電腦同步)
 - 🐙 GitHub repo:`shunshun70218-ctrl/my-classroom-tools`(公開,Pages 已啟用)
-- 📘 Obsidian 駕駛艙:`cloudai data/Obsidian/secondbrain/my-classroom-tools/工作筆記.md`(vault 也在 GDrive 內)
+- 📘 Obsidian 駕駛艙:`cloudai data/Obsidian/secondbrain/my-classroom-tools/專案工作流程.md`(vault 也在 GDrive 內)
 - 🌐 Pages 首頁:https://shunshun70218-ctrl.github.io/my-classroom-tools/
 
 ## 工具清單
